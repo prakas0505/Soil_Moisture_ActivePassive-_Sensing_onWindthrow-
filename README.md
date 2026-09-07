@@ -1,4 +1,4 @@
-# Soil_Moisture_ActivePassive_Sensing_on Windthrow Areas
+# Soil_Moisture_ActivePassive_Sensing_On Windthrow Areas
 Soil Moisture Active–Passive Sensing on Windthrow
 
 Research Project | HNEE – Eberswalde, Germany | Feb 2021 to Dec-2021
