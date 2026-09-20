@@ -12,4 +12,4 @@ Used QGIS, ArcMap, Python, and Microsoft Excel for data processing, spatial anal
 Compared active and passive remote-sensing soil-moisture products to understand moisture dynamics in windthrow-affected forest ecosystems.
 Performed GIS-based spatial analysis and interpreted variations in soil moisture across the study area.
 
-Tools: QGIS | ArcMap | Python | Microsoft Excel | Sentinel-1C | SMAP | Remote Sensing | GIS
+Tools Used: QGIS | ArcMap | Python | Microsoft Excel | Sentinel-1C | SMAP | Remote Sensing | GIS
