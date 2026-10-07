@@ -5,7 +5,6 @@ Research Project | HNEE – Eberswalde, Germany | Feb 2021 to Dec-2021
 
 This project investigated soil moisture conditions in windthrow-affected forest areas using active and passive remote-sensing data. The analysis combined Sentinel-1C and SMAP (Soil Moisture Active Passive) observations to monitor soil moisture at different spatial resolutions and depths.
 
-
 Sentinel-1C: approximately 1 km × 1 km soil-moisture resolution.
 SMAP: approximately 9 km × 9 km soil-moisture resolution.
 Monitored both soil-surface moisture and root-zone soil moisture.
